@@ -1,1 +1,12 @@
 "*.pdf"
+"*.exe"
+
+# Ignore exe files
+*.exe
+
+#ignore pdf files
+*.pdf
+
+# Ignore pdf files  
+*.pdf
+
