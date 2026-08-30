@@ -1,0 +1,12 @@
+binary number ->
+
+bitwise
+OR(|)
+AND(&)
+XOR(^)
+NOT(~)
+
+SHIFT
+LEFT SHIFT(<<)
+RIGHT SHIFT(>>)
+
