@@ -10,3 +10,11 @@ SHIFT
 LEFT SHIFT(<<)
 RIGHT SHIFT(>>)
 
+XOR notes-
+
+1. two equal numbers XOR (e.g. 5 ^ 5) ->0
+2. Number ^ 0 -> Number
+3. Number & 0 -> 0
+4. Number | 0 -> Number
+odd number of 1s always ->1 in XOR
+Even number of 1s always -> 0 in XOR
